@@ -1,0 +1,19 @@
+One of the guidelines from the seminal book on typography by Robert Bringhurt, 
+"The Elements of Typographic Style" states that "In heads and titles, use the
+best ampersand available". This plugin attempts to allow you to do just 
+that with your text in ExpressionEngine 2.
+
+To use this plugin, wrap anything you want to be processed by it between the 
+following tag pairs. Entry titles or headline text works best though it should 
+be able to handle most things you can throw at it.
+
+{exp:ampersand:wich}{title}{/exp:ampersand:wich}
+
+CHANGELOG
+-------------------------------------------------------------------------------
+2.0.0 - Initial version for EE 2.1 and newer
+
+
+-------------------------------------------------------------------------------
+url: http://scottboms.com
+twitter: http://twitter.com/scottboms
