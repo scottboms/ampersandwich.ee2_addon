@@ -2,7 +2,7 @@
 
 $plugin_info = array(
 	'pi_name'					=> "Ampersandwich",
-	'pi_version'			=> "2.0",
+	'pi_version'			=> "2.0.1",
 	'pi_author'				=> "Scott Boms",
 	'pi_author_url'		=> "http://scottboms.com",
 	'pi_description'	=> "Improves the display of ampersands by wrapping them with "
